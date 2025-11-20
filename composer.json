@@ -1,0 +1,16 @@
+{
+    "name": "ivan-p86/otus-composer-homework",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IvanP86\\OtusComposerHomework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IvanP",
+            "email": "inthedark86@yandex.ru"
+        }
+    ],
+    "require": {}
+}

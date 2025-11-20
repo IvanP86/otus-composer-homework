@@ -9,7 +9,7 @@
  ## Установка
 
  ```sh
- composer require IvanP86/otus-composer-homework
+ composer require ivan-p86/otus-composer-homework
  ```
 
  ## Использование
