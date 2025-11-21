@@ -18,7 +18,7 @@
  <?php
 
  $changer = new CamelCaseFromKebabCaseChanger();
- $changer = setCamelCase('kebab-case');
+ $changer->setCamelCase('kebab-case');
  echo $changer->getCamelCase(); // kebabCase
 
  ```
