@@ -12,5 +12,7 @@
             "email": "inthedark86@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.2.5"
+    }
 }
